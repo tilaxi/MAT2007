@@ -1,7 +1,7 @@
 """
 MAT2007 PROJECT -- Arctic sea ice vs temperature
 
-QUESTION: Does the loss of Arctic sea ice follow the temperature?
+QUESTION: How is the loss of Arctic sea ice correlated with Arctic temperature?
 
 DATA
   - Sea Ice
