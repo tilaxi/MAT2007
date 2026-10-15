@@ -18,10 +18,9 @@ DATA
                 Lenssen, N., G.A. Schmidt, M. Hendrickson, P. Jacobs, M. Menne, and R. Ruedy, 2024: A GISTEMPv4 
                   observational uncertainty ensemble. J. Geophys. Res. Atmos., 129, no. 17, e2023JD040179, DOI:10.1029/2023JD040179. 
 
-
 INSTRUCTIONS
-  Put this file and the two csv files in one folder together and run the code.
-  The code will create and save the outputs to a new folder called "results - ice v temp" at the current code location. 
+- Put this file and the two csv files in one folder together and run the code.
+- The code will create and save the outputs to a new folder called "results - ice v temp" at the current code location. 
 """
 
 from pathlib import Path
